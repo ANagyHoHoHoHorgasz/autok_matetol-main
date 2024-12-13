@@ -1,0 +1,47 @@
+
+
+body {
+    background-color: black;
+    background-image: image-set(kepek/auto_background_14);
+    background-repeat: no-repeat;
+    color: white;
+    max-width:1000px;
+    margin:auto;
+    font-family: Verdana, Tahoma, sans-serif ;
+  }
+
+  a {
+    color: orange;
+    text-decoration: none;
+    padding: 20px;
+    margin: 30px;
+    border:10px solid orange;
+    border-radius: 50%;
+    background-color: rgb(50, 48, 48);
+
+  }
+  
+  img {
+    width: 400px;
+    border:10px solid rgb(50, 48, 48);
+    border-radius: 50%;
+    padding: 10px;
+  }
+  p {
+    text-align: justify;
+    font-size: 15px;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 30px;
+    padding: 20px;
+    text-transform: uppercase;
+  }
+   
+  h2{
+    background-color: rgb(50, 48, 48);
+    border-radius: 50%;
+    padding: 30px
+  }
